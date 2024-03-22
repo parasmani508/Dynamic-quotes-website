@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemailer": "^6.9.12",
+    "nodemon": "^3.1.0"
+  },
+  "name": "paras",
+  "version": "1.0.0",
+  "description": "nodemon",
+  "main": "Hello",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node osmod.js",
+    "dev": "nodemon osmod.js"
+  },
+  "keywords": [
+    "Nodemon"
+  ],
+  "author": "Paras",
+  "license": "ISC"
+}
